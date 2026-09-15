@@ -35,4 +35,5 @@ knn.fit(X_train, y_train)
 y_pred = knn.predict(X_test)
 
 accuracy = accuracy_score(y_test, y_pred)
+print("Ansh Akhilesh Modi 59 1262241659")
 print("Accuracy:", accuracy)
